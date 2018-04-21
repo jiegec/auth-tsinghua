@@ -1,5 +1,5 @@
 #!/bin/bash
-# edit this line when needed
+# edit these lines when needed
 NODE=node
 USER=user
 PASS=password
