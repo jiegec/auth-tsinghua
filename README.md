@@ -1,8 +1,15 @@
 How to use
 ======================
 
+Way #1
 ```
-node portal.main.min.js username password
+$ node portal.main.min.js username password
+```
+
+Way #2
+```
+$ vim start.sh
+$ ./start.sh
 ```
 
 If you nodejs version is not new enough, please download prebuilt binaries from nodejs.org, for example:
