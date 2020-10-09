@@ -1,6 +1,8 @@
 How to use
 ======================
 
+Please use z4yx/GoAuthing instead.
+
 Way #1
 ```
 $ node portal.main.min.js username password
